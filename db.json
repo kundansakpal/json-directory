@@ -1,0 +1,18 @@
+{
+  "Profiles": [
+    {
+      "id": 1,
+      "name": "kundan sakpal",
+      "Age":31
+    },
+    {
+      "id": 2,
+      "name": "siddhesh thakur",
+      "Age":29
+    },
+    {
+      "id": 3,
+      "name": "bhavesh pitale",
+      "Age":41
+    }
+}
